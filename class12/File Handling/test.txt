@@ -1,0 +1,36 @@
+Employee ID: 101
+Name: Ramesh
+Age: 28
+Salary: 67000
+Address: Dhangadhi
+
+Employee ID: 102
+Name: Sita
+Age: 32
+Salary: 75000
+Address: Kathmandu
+
+Employee ID: 103
+Name: Ram
+Age: 25
+Salary: 62000
+Address: Biratnagar
+
+Employee ID: 104
+Name: Maya
+Age: 30
+Salary: 69000
+Address: Pokhara
+
+Employee ID: 105
+Name: Shyam
+Age: 27
+Salary: 64000
+Address: Nepalgunj
+
+Employee ID: 106
+Name: Samyog
+Age: 29
+Salary: 71000
+Address: Butwal
+This is after append

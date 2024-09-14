@@ -1,0 +1,12 @@
+Employee 1:
+Name: Samir
+Age: 18
+Salary: 34000.00
+Address: Kalanki
+
+Employee 2:
+Name: Ramesh
+Age: 21
+Salary: 38000.00
+Address: Bajalu
+
