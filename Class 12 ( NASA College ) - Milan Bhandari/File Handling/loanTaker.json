@@ -1,0 +1,15 @@
+{
+  "name": "Milan",
+  "principal": 99999,
+  "rate": 3,
+  "time": 4,
+  "simpleInterest": 11999.88
+}
+,
+{
+  "name": "Samir",
+  "principal": 20000,
+  "rate": 4,
+  "time": 2,
+  "simpleInterest": 1600.00
+}
