@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Interest</title>
+</head>
+<body>
+    <center><h2>Simple Interest</h2></center>
+    <form name="data" onsubmit="findInterest();">
+        <label for="principle">Enter principle:</label>
+        <input type="number" name="principle" id="principle"><br><br>
+        
+        <label for="rate">Enter rate:</label>
+        <input type="number" name="rate" id="rate"><br><br>
+        
+        <label for="time">Enter time:</label>
+        <input type="number" name="time" id="time"><br><br>
+        
+        <input type="submit">
+        <input type="reset"><br>
+    </form>
+
+    <script>  
+        function findInterest() {
+            var p, t, r, i;
+            p = document.data.principle.value;
+            t = document.data.time.value;
+            r = document.data.rate.value;
+
+            i = (p * t * r) / 100;
+            document.write("Simple Interest: ", +i);
+        }
+    </script>
+</body>
+</html>
