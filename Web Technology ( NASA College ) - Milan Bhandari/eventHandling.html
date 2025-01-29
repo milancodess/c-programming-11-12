@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Handling</title>
+</head>
+<body>
+	
+    <h2>Event Handling Example</h2>
+    
+    <button id="myButton">Hover or Click Me</button>
+    
+    <script>
+        var button = document.getElementById("myButton");
+        
+        button.onmouseover = function() {
+            alert("Mouse is over the button!");
+        };
+
+        button.onclick = function() {
+            alert("Button clicked!");
+        };
+    </script>
+
+</body>
+</html>
